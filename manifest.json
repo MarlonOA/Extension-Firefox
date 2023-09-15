@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Hello word",
+    "description": "Hello word Firefox",
+    "author": "Marlon Augusto",
+    "browser_action": {
+        "default_title": "Hello word",
+        "default_popup": "index.html"
+    }
+
+}
